@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lato';
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+.short {
+  width: 80%;
+  margin: 0 auto;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#lol {
+  line-height: 200%;
+  font-size: 50px;
+}
